@@ -16,3 +16,6 @@ A modern take on the classic Snake Game with essential features like score track
 📱 Simple UI – Clean, minimalist interface for distraction-free gameplay.
 
 ⚙️ Lightweight & Fast – Runs efficiently on most systems with minimal setup.
+
+Game Screenshot :
+![image](https://github.com/user-attachments/assets/8c2de1ed-d748-405c-bdb5-8bd81e1e7f8a)
