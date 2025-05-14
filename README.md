@@ -1,3 +1,5 @@
+
+   
 # Snake-Game
 🐍 Snake Game
 A modern take on the classic Snake Game with essential features like score tracking, pause/play functionality, and high score management. Built for simplicity, fun, and a smooth user experience.
